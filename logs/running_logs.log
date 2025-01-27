@@ -1,0 +1,1023 @@
+[2024-10-16 15:14:54,759: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-16 15:14:54,809: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-16 15:14:54,812: INFO: common: created directory at: artifacts]
+[2024-10-16 15:14:54,817: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-16 15:14:54,817: INFO: 4051216940: Downloading data from https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-16 15:16:03,041: INFO: 4051216940: Downloaded data from https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-16 15:17:42,778: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-16 15:17:42,786: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-16 15:17:42,790: INFO: common: created directory at: artifacts]
+[2024-10-16 15:17:42,794: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-10-16 15:24:13,499: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-16 15:24:13,499: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-16 15:24:13,508: INFO: common: created directory at: artifacts]
+[2024-10-16 15:24:13,510: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-10-16 15:24:21,414: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-16 15:24:54,541: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-16 15:24:54,543: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-16 15:24:54,544: INFO: common: created directory at: artifacts]
+[2024-10-16 15:24:54,544: INFO: common: created directory at: artifacts\training]
+[2024-10-16 15:53:27,875: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-16 15:53:27,885: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-16 15:53:27,885: INFO: common: created directory at: artifacts]
+[2024-10-16 15:53:48,274: INFO: common: json file saved at: scores.json]
+[2024-10-16 15:53:51,643: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-10-16 15:53:52,586: INFO: builder_impl: Assets written to: C:\Users\LENOVO\AppData\Local\Temp\tmpj6cbmfgl\model\data\model\assets]
+[2024-10-16 15:57:15,333: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-16 15:57:15,336: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-16 15:57:15,341: INFO: common: created directory at: artifacts]
+[2024-10-16 15:57:37,838: INFO: common: json file saved at: scores.json]
+[2024-10-16 15:57:40,956: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-10-16 15:57:41,725: INFO: builder_impl: Assets written to: C:\Users\LENOVO\AppData\Local\Temp\tmpdrwsu4i6\model\data\model\assets]
+[2024-10-17 13:53:53,108: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 13:53:53,120: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 13:53:53,121: INFO: common: created directory at: artifacts]
+[2024-10-17 13:54:06,927: INFO: common: json file saved at: scores.json]
+[2024-10-17 13:54:09,617: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-10-17 13:54:10,201: INFO: builder_impl: Assets written to: C:\Users\LENOVO\AppData\Local\Temp\tmpgh_76iv8\model\data\model\assets]
+[2024-10-17 13:58:07,833: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 13:58:07,839: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 13:58:07,839: INFO: common: created directory at: artifacts]
+[2024-10-17 13:58:20,396: INFO: common: json file saved at: scores.json]
+[2024-10-17 14:03:17,285: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/noblejemini/Chest-Cancer-Detection-using-MLOps-main "HTTP/1.1 200 OK"]
+[2024-10-17 14:03:17,302: INFO: helpers: Initialized MLflow to track repo "noblejemini/Chest-Cancer-Detection-using-MLOps-main"]
+[2024-10-17 14:03:17,302: INFO: helpers: Repository noblejemini/Chest-Cancer-Detection-using-MLOps-main initialized!]
+[2024-10-17 14:03:40,078: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:03:40,085: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:03:40,085: INFO: common: created directory at: artifacts]
+[2024-10-17 14:03:53,006: INFO: common: json file saved at: scores.json]
+[2024-10-17 14:04:03,157: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:04:03,157: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:04:03,164: INFO: common: created directory at: artifacts]
+[2024-10-17 14:04:15,189: INFO: common: json file saved at: scores.json]
+[2024-10-17 14:04:18,485: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-10-17 14:04:19,139: INFO: builder_impl: Assets written to: C:\Users\LENOVO\AppData\Local\Temp\tmp2togou8t\model\data\model\assets]
+[2024-10-17 14:22:35,410: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/noblejemini/Chest-Cancer-Detection-using-MLOps-main "HTTP/1.1 200 OK"]
+[2024-10-17 14:22:35,440: INFO: helpers: Initialized MLflow to track repo "noblejemini/Chest-Cancer-Detection-using-MLOps-main"]
+[2024-10-17 14:22:35,447: INFO: helpers: Repository noblejemini/Chest-Cancer-Detection-using-MLOps-main initialized!]
+[2024-10-17 14:22:39,562: WARNING: connectionpool: Retrying (Retry(total=4, connect=4, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024210374BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create]
+[2024-10-17 14:22:47,657: WARNING: connectionpool: Retrying (Retry(total=3, connect=3, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024210374790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create]
+[2024-10-17 14:22:59,726: WARNING: connectionpool: Retrying (Retry(total=2, connect=2, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024210369B80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create]
+[2024-10-17 14:23:19,772: WARNING: connectionpool: Retrying (Retry(total=1, connect=1, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024210369C70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create]
+[2024-10-17 14:23:32,493: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/noblejemini/Chest-Cancer-Detection-using-MLOps-main "HTTP/1.1 200 OK"]
+[2024-10-17 14:23:32,501: INFO: helpers: Initialized MLflow to track repo "noblejemini/Chest-Cancer-Detection-using-MLOps-main"]
+[2024-10-17 14:23:32,510: INFO: helpers: Repository noblejemini/Chest-Cancer-Detection-using-MLOps-main initialized!]
+[2024-10-17 14:23:36,592: WARNING: connectionpool: Retrying (Retry(total=4, connect=4, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000242009AF1F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create]
+[2024-10-17 14:23:44,654: WARNING: connectionpool: Retrying (Retry(total=3, connect=3, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000242009AF460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create]
+[2024-10-17 14:23:56,733: WARNING: connectionpool: Retrying (Retry(total=2, connect=2, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000242009AF760>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create]
+[2024-10-17 14:24:17,046: WARNING: connectionpool: Retrying (Retry(total=1, connect=1, read=5, redirect=5, status=5)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000242009AF8E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /api/2.0/mlflow/runs/create]
+[2024-10-17 14:25:26,085: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:25:26,095: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:25:26,099: INFO: common: created directory at: artifacts]
+[2024-10-17 14:25:41,447: INFO: common: json file saved at: scores.json]
+[2024-10-17 14:25:43,933: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-10-17 14:25:44,543: INFO: builder_impl: Assets written to: C:\Users\LENOVO\AppData\Local\Temp\tmp5_kzvakv\model\data\model\assets]
+[2024-10-17 14:27:37,299: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/noblejemini/Chest-Cancer-Detection-using-MLOps-main "HTTP/1.1 200 OK"]
+[2024-10-17 14:27:37,309: INFO: helpers: Initialized MLflow to track repo "noblejemini/Chest-Cancer-Detection-using-MLOps-main"]
+[2024-10-17 14:27:37,316: INFO: helpers: Repository noblejemini/Chest-Cancer-Detection-using-MLOps-main initialized!]
+[2024-10-17 14:28:30,530: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/noblejemini/Chest-Cancer-Detection-using-MLOps-main "HTTP/1.1 200 OK"]
+[2024-10-17 14:28:30,531: INFO: helpers: Initialized MLflow to track repo "noblejemini/Chest-Cancer-Detection-using-MLOps-main"]
+[2024-10-17 14:28:30,538: INFO: helpers: Repository noblejemini/Chest-Cancer-Detection-using-MLOps-main initialized!]
+[2024-10-17 14:29:31,165: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:29:31,170: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:29:31,172: INFO: common: created directory at: artifacts]
+[2024-10-17 14:29:47,190: INFO: common: json file saved at: scores.json]
+[2024-10-17 14:29:49,811: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-10-17 14:29:50,436: INFO: builder_impl: Assets written to: C:\Users\LENOVO\AppData\Local\Temp\tmpn7esv6eg\model\data\model\assets]
+[2024-10-17 14:34:48,235: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/noblejemini/Chest-Cancer-Detection-using-MLOps-main "HTTP/1.1 200 OK"]
+[2024-10-17 14:34:48,256: INFO: helpers: Initialized MLflow to track repo "noblejemini/Chest-Cancer-Detection-using-MLOps-main"]
+[2024-10-17 14:34:48,256: INFO: helpers: Repository noblejemini/Chest-Cancer-Detection-using-MLOps-main initialized!]
+[2024-10-17 14:38:11,091: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:38:11,091: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:38:11,091: INFO: common: created directory at: artifacts]
+[2024-10-17 14:38:26,721: INFO: common: json file saved at: scores.json]
+[2024-10-17 14:38:30,021: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-10-17 14:38:31,709: INFO: builder_impl: Assets written to: C:\Users\LENOVO\AppData\Local\Temp\tmpkriccl5g\model\data\model\assets]
+[2024-10-17 14:42:38,842: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-10-17 14:42:38,842: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:42:38,842: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:42:38,842: INFO: common: created directory at: artifacts]
+[2024-10-17 14:42:38,842: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-17 14:42:38,856: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-17 14:42:49,196: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-17 14:42:49,650: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-10-17 14:42:49,650: INFO: main: *******************]
+[2024-10-17 14:42:49,650: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-10-17 14:42:49,650: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:42:49,655: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:42:49,656: INFO: common: created directory at: artifacts]
+[2024-10-17 14:42:49,657: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-10-17 14:42:50,218: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-17 14:42:50,551: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-10-17 14:42:50,551: INFO: main: *******************]
+[2024-10-17 14:42:50,551: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-10-17 14:42:50,551: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:42:50,567: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:42:50,567: INFO: common: created directory at: artifacts]
+[2024-10-17 14:42:50,569: INFO: common: created directory at: artifacts\training]
+[2024-10-17 14:44:01,876: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-17 14:44:01,876: INFO: main: *******************]
+[2024-10-17 14:44:01,876: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-17 14:44:01,876: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:44:01,892: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:44:01,892: INFO: common: created directory at: artifacts]
+[2024-10-17 14:44:13,707: INFO: common: json file saved at: scores.json]
+[2024-10-17 14:44:13,711: INFO: common: json file saved at: scores.json]
+[2024-10-17 14:44:13,711: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-17 14:47:15,372: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-10-17 14:47:15,387: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:47:15,387: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:47:15,387: INFO: common: created directory at: artifacts]
+[2024-10-17 14:47:15,387: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-17 14:47:15,387: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-17 14:47:26,042: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-17 14:47:26,445: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-10-17 14:47:34,393: INFO: stage_02_prepare_base_model: *******************]
+[2024-10-17 14:47:34,393: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2024-10-17 14:47:34,393: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:47:34,393: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:47:34,393: INFO: common: created directory at: artifacts]
+[2024-10-17 14:47:34,393: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-10-17 14:47:34,906: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-17 14:47:35,223: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-10-17 14:47:40,089: INFO: stage_03_model_trainer: *******************]
+[2024-10-17 14:47:40,089: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-17 14:47:40,089: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:47:40,089: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:47:40,089: INFO: common: created directory at: artifacts]
+[2024-10-17 14:47:40,089: INFO: common: created directory at: artifacts\training]
+[2024-10-17 14:48:50,112: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-17 14:48:56,292: INFO: stage_04_model_evaluation: *******************]
+[2024-10-17 14:48:56,292: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-17 14:48:56,292: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 14:48:56,292: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 14:48:56,292: INFO: common: created directory at: artifacts]
+[2024-10-17 14:49:08,027: INFO: common: json file saved at: scores.json]
+[2024-10-17 14:49:08,027: INFO: common: json file saved at: scores.json]
+[2024-10-17 14:49:08,043: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-17 22:09:28,075: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-10-17 22:09:28,077: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 22:09:28,081: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 22:09:28,082: INFO: common: created directory at: artifacts]
+[2024-10-17 22:09:28,083: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-17 22:09:28,083: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-17 22:09:44,078: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-17 22:09:44,516: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-10-17 22:09:59,419: INFO: stage_02_prepare_base_model: *******************]
+[2024-10-17 22:09:59,419: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2024-10-17 22:09:59,419: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 22:09:59,419: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 22:09:59,419: INFO: common: created directory at: artifacts]
+[2024-10-17 22:09:59,419: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-10-17 22:09:59,945: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-17 22:10:00,447: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-10-17 22:10:05,850: INFO: stage_03_model_trainer: *******************]
+[2024-10-17 22:10:05,866: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-17 22:10:05,866: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 22:10:05,866: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 22:10:05,866: INFO: common: created directory at: artifacts]
+[2024-10-17 22:10:05,866: INFO: common: created directory at: artifacts\training]
+[2024-10-17 22:11:04,470: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-17 22:11:11,699: INFO: stage_04_model_evaluation: *******************]
+[2024-10-17 22:11:11,699: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-17 22:11:11,699: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-17 22:11:11,699: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-17 22:11:11,699: INFO: common: created directory at: artifacts]
+[2024-10-17 22:11:21,363: INFO: common: json file saved at: scores.json]
+[2024-10-17 22:11:21,379: INFO: common: json file saved at: scores.json]
+[2024-10-17 22:11:21,379: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-18 00:06:25,372: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-10-18 00:06:25,372: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 00:06:25,388: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 00:06:25,388: INFO: common: created directory at: artifacts]
+[2024-10-18 00:06:25,388: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-18 00:06:25,388: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-18 00:06:36,352: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-10-18 00:06:36,699: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-10-18 00:06:45,342: INFO: stage_02_prepare_base_model: *******************]
+[2024-10-18 00:06:45,342: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2024-10-18 00:06:45,342: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 00:06:45,342: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 00:06:45,355: INFO: common: created directory at: artifacts]
+[2024-10-18 00:06:45,355: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-10-18 00:06:45,859: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-18 00:06:46,182: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-10-18 00:06:50,984: INFO: stage_03_model_trainer: *******************]
+[2024-10-18 00:06:50,984: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-18 00:06:50,984: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 00:06:50,984: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 00:06:50,984: INFO: common: created directory at: artifacts]
+[2024-10-18 00:06:50,984: INFO: common: created directory at: artifacts\training]
+[2024-10-18 00:07:59,747: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-18 00:08:06,059: INFO: stage_04_model_evaluation: *******************]
+[2024-10-18 00:08:06,059: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-18 00:08:06,059: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 00:08:06,075: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 00:08:06,075: INFO: common: created directory at: artifacts]
+[2024-10-18 00:08:17,111: INFO: common: json file saved at: scores.json]
+[2024-10-18 00:08:17,111: INFO: common: json file saved at: scores.json]
+[2024-10-18 00:08:17,111: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-18 00:15:48,723: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-10-18 00:15:48,739: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 00:15:48,747: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 00:15:48,748: INFO: common: created directory at: artifacts]
+[2024-10-18 00:15:48,748: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-18 00:15:48,749: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-10-18 00:16:02,894: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-10-18 00:16:03,234: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-10-18 00:29:24,174: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-10-18 00:29:24,174: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 00:29:24,174: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 00:29:24,174: INFO: common: created directory at: artifacts]
+[2024-10-18 00:29:24,174: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-18 00:29:24,183: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-10-18 00:29:37,994: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-10-18 00:29:38,355: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-10-18 00:29:48,501: INFO: stage_02_prepare_base_model: *******************]
+[2024-10-18 00:29:48,501: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2024-10-18 00:29:48,501: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 00:29:48,501: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 00:29:48,501: INFO: common: created directory at: artifacts]
+[2024-10-18 00:29:48,501: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-10-18 00:29:49,010: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-18 00:29:49,354: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-10-18 00:58:33,458: INFO: stage_03_model_trainer: *******************]
+[2024-10-18 00:58:33,458: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-18 00:58:33,458: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 00:58:33,458: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 00:58:33,458: INFO: common: created directory at: artifacts]
+[2024-10-18 00:58:33,458: INFO: common: created directory at: artifacts\training]
+[2024-10-18 00:58:34,061: ERROR: stage_03_model_trainer: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\Chest-CT-Scan-data']
+Traceback (most recent call last):
+  File "src/ChestCancerClassifier/pipeline/stage_03_model_trainer.py", line 29, in <module>
+    obj.main()
+  File "src/ChestCancerClassifier/pipeline/stage_03_model_trainer.py", line 19, in main
+    training.train_valid_generator()
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\components\model_trainer.py", line 36, in train_valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\Chest-CT-Scan-data'
+[2024-10-18 01:01:07,874: INFO: stage_03_model_trainer: *******************]
+[2024-10-18 01:01:07,874: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-18 01:01:07,874: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 01:01:07,890: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 01:01:07,890: INFO: common: created directory at: artifacts]
+[2024-10-18 01:01:07,890: INFO: common: created directory at: artifacts\training]
+[2024-10-18 01:01:08,273: ERROR: stage_03_model_trainer: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\Chest-CT-Scan-data']
+Traceback (most recent call last):
+  File "src/ChestCancerClassifier/pipeline/stage_03_model_trainer.py", line 29, in <module>
+    obj.main()
+  File "src/ChestCancerClassifier/pipeline/stage_03_model_trainer.py", line 19, in main
+    training.train_valid_generator()
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\components\model_trainer.py", line 36, in train_valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\Chest-CT-Scan-data'
+[2024-10-18 01:04:48,117: INFO: stage_03_model_trainer: *******************]
+[2024-10-18 01:04:48,117: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-18 01:04:48,133: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 01:04:48,133: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 01:04:48,133: INFO: common: created directory at: artifacts]
+[2024-10-18 01:04:48,133: INFO: common: created directory at: artifacts\training]
+[2024-10-18 01:04:48,517: ERROR: stage_03_model_trainer: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\Chest-CT-Scan-data']
+Traceback (most recent call last):
+  File "src/ChestCancerClassifier/pipeline/stage_03_model_trainer.py", line 29, in <module>
+    obj.main()
+  File "src/ChestCancerClassifier/pipeline/stage_03_model_trainer.py", line 19, in main
+    training.train_valid_generator()
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\components\model_trainer.py", line 36, in train_valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\Chest-CT-Scan-data'
+[2024-10-18 01:14:03,157: INFO: stage_03_model_trainer: *******************]
+[2024-10-18 01:14:03,157: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-18 01:14:03,157: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 01:14:03,157: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 01:14:03,157: INFO: common: created directory at: artifacts]
+[2024-10-18 01:14:03,164: INFO: common: created directory at: artifacts\training]
+[2024-10-18 01:14:03,728: ERROR: stage_03_model_trainer: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\Chest-CT-Scan-data']
+Traceback (most recent call last):
+  File "src/ChestCancerClassifier/pipeline/stage_03_model_trainer.py", line 29, in <module>
+    obj.main()
+  File "src/ChestCancerClassifier/pipeline/stage_03_model_trainer.py", line 19, in main
+    training.train_valid_generator()
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\components\model_trainer.py", line 36, in train_valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts\\data_ingestion\\Chest-CT-Scan-data'
+[2024-10-18 01:20:30,798: INFO: stage_03_model_trainer: *******************]
+[2024-10-18 01:20:30,798: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-18 01:20:30,814: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 01:20:30,814: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 01:20:30,819: INFO: common: created directory at: artifacts]
+[2024-10-18 01:20:30,819: INFO: common: created directory at: artifacts\training]
+[2024-10-18 01:21:55,893: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-18 01:54:23,969: INFO: stage_04_model_evaluation: *******************]
+[2024-10-18 01:54:23,970: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-18 01:54:23,971: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 01:54:23,975: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 01:54:23,976: INFO: common: created directory at: artifacts]
+[2024-10-18 01:54:24,609: ERROR: stage_04_model_evaluation: [WinError 3] The system cannot find the path specified: 'artifacts/data_ingestion/Chest-CT-Scan-data']
+Traceback (most recent call last):
+  File "src/ChestCancerClassifier/pipeline/stage_04_model_evaluation.py", line 29, in <module>
+    obj.main()
+  File "src/ChestCancerClassifier/pipeline/stage_04_model_evaluation.py", line 17, in main
+    evaluation.evaluation()
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\components\model_evaluation_mlflow.py", line 47, in evaluation
+    self._valid_generator()
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\components\model_evaluation_mlflow.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts/data_ingestion/Chest-CT-Scan-data'
+[2024-10-18 01:55:10,442: INFO: stage_04_model_evaluation: *******************]
+[2024-10-18 01:55:10,442: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-18 01:55:10,442: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 01:55:10,458: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 01:55:10,459: INFO: common: created directory at: artifacts]
+[2024-10-18 01:55:11,047: ERROR: stage_04_model_evaluation: [WinError 3] The system cannot find the path specified: 'artifacts/data_ingestion/Chest-CT-Scan-data']
+Traceback (most recent call last):
+  File "src/ChestCancerClassifier/pipeline/stage_04_model_evaluation.py", line 29, in <module>
+    obj.main()
+  File "src/ChestCancerClassifier/pipeline/stage_04_model_evaluation.py", line 17, in main
+    evaluation.evaluation()
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\components\model_evaluation_mlflow.py", line 47, in evaluation
+    self._valid_generator()
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\components\model_evaluation_mlflow.py", line 32, in _valid_generator
+    self.valid_generator = valid_datagenerator.flow_from_directory(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 1648, in flow_from_directory
+    return DirectoryIterator(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\preprocessing\image.py", line 563, in __init__
+    for subdir in sorted(os.listdir(directory)):
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'artifacts/data_ingestion/Chest-CT-Scan-data'
+[2024-10-18 01:56:30,864: INFO: stage_04_model_evaluation: *******************]
+[2024-10-18 01:56:30,864: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-18 01:56:30,866: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 01:56:30,870: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 01:56:30,870: INFO: common: created directory at: artifacts]
+[2024-10-18 01:56:44,923: INFO: common: json file saved at: scores.json]
+[2024-10-18 01:56:44,925: INFO: common: json file saved at: scores.json]
+[2024-10-18 01:56:44,926: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-18 14:01:46,260: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-10-18 14:01:46,260: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 14:01:46,260: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 14:01:46,260: INFO: common: created directory at: artifacts]
+[2024-10-18 14:01:46,260: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-18 14:01:46,274: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-10-18 14:01:46,432: ERROR: main: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1149)')))]
+Traceback (most recent call last):
+  File "D:\miniconda\envs\chest\lib\site-packages\urllib3\connectionpool.py", line 716, in urlopen
+    httplib_response = self._make_request(
+  File "D:\miniconda\envs\chest\lib\site-packages\urllib3\connectionpool.py", line 404, in _make_request
+    self._validate_conn(conn)
+  File "D:\miniconda\envs\chest\lib\site-packages\urllib3\connectionpool.py", line 1061, in _validate_conn
+    conn.connect()
+  File "D:\miniconda\envs\chest\lib\site-packages\urllib3\connection.py", line 419, in connect
+    self.sock = ssl_wrap_socket(
+  File "D:\miniconda\envs\chest\lib\site-packages\urllib3\util\ssl_.py", line 458, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "D:\miniconda\envs\chest\lib\site-packages\urllib3\util\ssl_.py", line 502, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "D:\miniconda\envs\chest\lib\ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "D:\miniconda\envs\chest\lib\ssl.py", line 1073, in _create
+    self.do_handshake()
+  File "D:\miniconda\envs\chest\lib\ssl.py", line 1342, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1149)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\miniconda\envs\chest\lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "D:\miniconda\envs\chest\lib\site-packages\urllib3\connectionpool.py", line 802, in urlopen
+    retries = retries.increment(
+  File "D:\miniconda\envs\chest\lib\site-packages\urllib3\util\retry.py", line 594, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1149)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 13, in <module>
+    obj.main()
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\components\data_ingestion.py", line 32, in download_file
+    raise e
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\components\data_ingestion.py", line 27, in download_file
+    gdown.download(prefix+file_id,zip_download_dir)
+  File "D:\miniconda\envs\chest\lib\site-packages\gdown\download.py", line 202, in download
+    res = sess.get(url, stream=True, verify=verify)
+  File "D:\miniconda\envs\chest\lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "D:\miniconda\envs\chest\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\miniconda\envs\chest\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\miniconda\envs\chest\lib\site-packages\requests\adapters.py", line 698, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1149)')))
+[2024-10-18 14:02:19,074: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-10-18 14:02:19,090: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 14:02:19,090: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 14:02:19,090: INFO: common: created directory at: artifacts]
+[2024-10-18 14:02:19,090: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-18 14:02:19,090: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-10-18 14:02:25,998: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-10-18 14:02:26,347: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-10-18 14:02:26,347: INFO: main: *******************]
+[2024-10-18 14:02:26,347: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-10-18 14:02:26,347: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 14:02:26,347: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 14:02:26,347: INFO: common: created directory at: artifacts]
+[2024-10-18 14:02:26,347: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-10-18 14:02:26,930: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-18 14:02:27,589: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-10-18 14:02:27,589: INFO: main: *******************]
+[2024-10-18 14:02:27,589: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-10-18 14:02:27,589: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 14:02:27,604: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 14:02:27,604: INFO: common: created directory at: artifacts]
+[2024-10-18 14:02:27,604: INFO: common: created directory at: artifacts\training]
+[2024-10-18 14:04:11,677: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-18 14:04:11,677: INFO: main: *******************]
+[2024-10-18 14:04:11,677: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-18 14:04:11,692: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 14:04:11,692: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 14:04:11,692: INFO: common: created directory at: artifacts]
+[2024-10-18 14:04:27,669: INFO: common: json file saved at: scores.json]
+[2024-10-18 14:04:27,669: INFO: common: json file saved at: scores.json]
+[2024-10-18 14:04:27,669: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-18 14:08:15,989: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.227.4:8080]
+[2024-10-18 14:08:15,989: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-10-18 14:08:29,577: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:08:29] "GET / HTTP/1.1" 200 -]
+[2024-10-18 14:08:55,988: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:08:55] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:09:11,917: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:09:11] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:09:20,659: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:09:20] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:09:37,358: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:09:37] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:09:39,850: WARNING: polymorphic_function: 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001914E89F040> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-10-18 14:09:39,850: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:09:39] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:09:48,265: WARNING: polymorphic_function: 6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001914E9E6670> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-10-18 14:09:48,265: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:09:48] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:09:56,783: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:09:56] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:14:00,774: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.227.4:8080]
+[2024-10-18 14:14:00,774: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-10-18 14:14:24,993: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:14:24] "GET / HTTP/1.1" 200 -]
+[2024-10-18 14:14:42,644: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:14:42] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:14:55,986: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:14:55] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:16:26,402: INFO: stage_03_model_trainer: *******************]
+[2024-10-18 14:16:26,402: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-18 14:16:26,402: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 14:16:26,425: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 14:16:26,428: INFO: common: created directory at: artifacts]
+[2024-10-18 14:16:26,428: INFO: common: created directory at: artifacts\training]
+[2024-10-18 14:24:39,980: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-18 14:24:46,030: INFO: stage_04_model_evaluation: *******************]
+[2024-10-18 14:24:46,030: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-18 14:24:46,030: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 14:24:46,030: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 14:24:46,030: INFO: common: created directory at: artifacts]
+[2024-10-18 14:25:01,245: INFO: common: json file saved at: scores.json]
+[2024-10-18 14:25:01,245: INFO: common: json file saved at: scores.json]
+[2024-10-18 14:25:01,245: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-18 14:32:46,797: INFO: stage_03_model_trainer: *******************]
+[2024-10-18 14:32:46,797: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-18 14:32:46,797: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 14:32:46,797: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 14:32:46,797: INFO: common: created directory at: artifacts]
+[2024-10-18 14:32:46,810: INFO: common: created directory at: artifacts\training]
+[2024-10-18 14:57:11,888: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-18 14:57:18,160: INFO: stage_04_model_evaluation: *******************]
+[2024-10-18 14:57:18,160: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-18 14:57:18,160: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 14:57:18,160: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 14:57:18,160: INFO: common: created directory at: artifacts]
+[2024-10-18 14:57:33,360: INFO: common: json file saved at: scores.json]
+[2024-10-18 14:57:33,360: INFO: common: json file saved at: scores.json]
+[2024-10-18 14:57:33,360: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-18 14:58:04,191: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.227.4:8080]
+[2024-10-18 14:58:04,191: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-10-18 14:58:22,440: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:58:22] "GET / HTTP/1.1" 200 -]
+[2024-10-18 14:58:29,887: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:58:29] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:58:45,962: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:58:45] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:58:57,337: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:58:57] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:59:07,578: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:59:07] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:59:17,136: WARNING: polymorphic_function: 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001AC2D22E040> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-10-18 14:59:17,136: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:59:17] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 14:59:28,602: WARNING: polymorphic_function: 6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001AC2D377670> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-10-18 14:59:28,611: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 14:59:28] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:00:00,838: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:00:00] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:00:11,350: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:00:11] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:00:19,068: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:00:19] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:01:49,945: INFO: stage_03_model_trainer: *******************]
+[2024-10-18 15:01:49,945: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-18 15:01:49,945: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 15:01:49,945: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 15:01:49,945: INFO: common: created directory at: artifacts]
+[2024-10-18 15:01:49,956: INFO: common: created directory at: artifacts\training]
+[2024-10-18 15:40:23,642: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-18 15:40:31,888: INFO: stage_04_model_evaluation: *******************]
+[2024-10-18 15:40:31,888: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-18 15:40:31,888: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-18 15:40:31,888: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-18 15:40:31,888: INFO: common: created directory at: artifacts]
+[2024-10-18 15:40:46,069: INFO: common: json file saved at: scores.json]
+[2024-10-18 15:40:46,069: INFO: common: json file saved at: scores.json]
+[2024-10-18 15:40:46,069: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-18 15:40:58,408: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.227.4:8080]
+[2024-10-18 15:40:58,408: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-10-18 15:41:08,210: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:41:08] "GET / HTTP/1.1" 200 -]
+[2024-10-18 15:41:24,062: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:41:24] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:41:34,061: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:41:34] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:41:48,979: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:41:48] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:43:02,894: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:43:02] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:43:08,352: WARNING: polymorphic_function: 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001FF3EE76670> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-10-18 15:43:08,352: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:43:08] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:43:16,954: WARNING: polymorphic_function: 6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001FF3EE55670> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-10-18 15:43:16,977: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:43:16] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:43:31,502: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:43:31] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:43:38,678: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:43:38] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:43:48,050: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:43:48] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:44:02,959: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:44:02] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:44:11,326: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:44:11] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:44:23,617: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:44:23] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:44:37,009: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:44:37] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:45:55,110: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.227.4:8080]
+[2024-10-18 15:45:55,110: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-10-18 15:46:00,526: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:46:00] "GET / HTTP/1.1" 200 -]
+[2024-10-18 15:46:09,599: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:46:09] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:46:17,965: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:46:17] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:46:24,448: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:46:24] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:46:35,057: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:46:35] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:46:52,156: WARNING: polymorphic_function: 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000016A400FE040> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-10-18 15:46:52,166: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:46:52] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:47:02,181: WARNING: polymorphic_function: 6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000016A40246670> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-10-18 15:47:02,189: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:47:02] "POST /predict HTTP/1.1" 200 -]
+[2024-10-18 15:47:16,348: INFO: _internal: 172.16.227.4 - - [18/Oct/2024 15:47:16] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:36:36,306: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.227.4:8080]
+[2024-10-19 10:36:36,306: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-10-19 10:36:46,463: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:36:46] "GET / HTTP/1.1" 200 -]
+[2024-10-19 10:36:51,704: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "D:\miniconda\envs\chest\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\miniconda\envs\chest\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\miniconda\envs\chest\lib\site-packages\flask_cors\extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\miniconda\envs\chest\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\miniconda\envs\chest\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "D:\miniconda\envs\chest\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "app.py", line 46, in predictRoute
+    result = clApp.classifier.predict()
+  File "d:\major\chest-cancer-detection-using-mlops-main\src\ChestCancerClassifier\pipeline\prediction.py", line 18, in predict
+    model = load_model(os.path.join("model", "model.h5"))
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\saving\saving_api.py", line 212, in load_model
+    return legacy_sm_saving_lib.load_model(
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\utils\traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "D:\miniconda\envs\chest\lib\site-packages\keras\saving\legacy\save.py", line 230, in load_model
+    raise IOError(
+OSError: No file or directory found at model\model.h5
+[2024-10-19 10:36:51,787: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:36:51] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-10-19 10:39:22,816: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.227.4:8080]
+[2024-10-19 10:39:22,816: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-10-19 10:39:30,287: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:39:30] "GET / HTTP/1.1" 200 -]
+[2024-10-19 10:39:37,271: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:39:37] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:39:45,116: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:39:45] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:39:51,619: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:39:51] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:40:03,308: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:40:03] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:40:05,416: WARNING: polymorphic_function: 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000298E3D66670> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-10-19 10:40:05,416: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:40:05] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:40:11,350: WARNING: polymorphic_function: 6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000298E3D47670> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2024-10-19 10:40:11,368: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:40:11] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:40:16,293: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:40:16] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:40:24,723: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:40:24] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:40:32,066: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:40:32] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:40:39,514: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:40:39] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:40:52,791: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:40:52] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:40:54,359: INFO: _internal: 172.16.227.4 - - [19/Oct/2024 10:40:54] "POST /predict HTTP/1.1" 200 -]
+[2024-10-19 10:49:18,362: INFO: stage_03_model_trainer: *******************]
+[2024-10-19 10:49:18,362: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-19 10:49:18,362: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-19 10:49:18,362: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-19 10:49:18,362: INFO: common: created directory at: artifacts]
+[2024-10-19 10:49:18,362: INFO: common: created directory at: artifacts\training]
+[2024-10-19 11:53:40,365: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-22 10:53:32,423: INFO: stage_03_model_trainer: *******************]
+[2024-10-22 10:53:32,423: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-22 10:53:32,423: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-22 10:53:32,423: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-22 10:53:32,435: INFO: common: created directory at: artifacts]
+[2024-10-22 10:53:32,435: INFO: common: created directory at: artifacts\training]
+[2024-10-22 11:58:20,715: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-22 11:58:29,335: INFO: stage_04_model_evaluation: *******************]
+[2024-10-22 11:58:29,335: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-22 11:58:29,335: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-22 11:58:29,335: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-22 11:58:29,344: INFO: common: created directory at: artifacts]
+[2024-10-22 11:58:43,097: INFO: common: json file saved at: scores.json]
+[2024-10-22 11:58:43,097: INFO: common: json file saved at: scores.json]
+[2024-10-22 11:58:43,097: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-22 12:35:34,730: INFO: stage_03_model_trainer: *******************]
+[2024-10-22 12:35:34,730: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-22 12:35:34,730: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-22 12:35:34,730: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-22 12:35:34,743: INFO: common: created directory at: artifacts]
+[2024-10-22 12:35:34,743: INFO: common: created directory at: artifacts\training]
+[2024-10-22 12:54:46,733: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-22 12:54:54,170: INFO: stage_04_model_evaluation: *******************]
+[2024-10-22 12:54:54,170: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-22 12:54:54,170: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-22 12:54:54,170: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-22 12:54:54,170: INFO: common: created directory at: artifacts]
+[2024-10-22 12:55:08,808: INFO: common: json file saved at: scores.json]
+[2024-10-22 12:55:08,808: INFO: common: json file saved at: scores.json]
+[2024-10-22 12:55:08,808: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-22 14:47:52,134: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-10-22 14:47:52,150: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-22 14:47:52,150: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-22 14:47:52,150: INFO: common: created directory at: artifacts]
+[2024-10-22 14:47:52,150: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-22 14:47:52,150: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-10-22 14:49:01,437: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1syDDFBYKcKVCutlEcQ9zMuHxd0wOgsQt/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2024-10-22 14:49:01,914: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-10-22 14:49:13,706: INFO: stage_02_prepare_base_model: *******************]
+[2024-10-22 14:49:13,706: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2024-10-22 14:49:13,706: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-22 14:49:13,706: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-22 14:49:13,714: INFO: common: created directory at: artifacts]
+[2024-10-22 14:49:13,714: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-10-22 14:50:38,495: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-10-22 14:50:39,916: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-10-22 14:50:46,130: INFO: stage_03_model_trainer: *******************]
+[2024-10-22 14:50:46,130: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-22 14:50:46,130: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-22 14:50:46,130: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-22 14:50:46,130: INFO: common: created directory at: artifacts]
+[2024-10-22 14:50:46,130: INFO: common: created directory at: artifacts\training]
+[2024-10-22 14:52:32,289: INFO: stage_03_model_trainer: *******************]
+[2024-10-22 14:52:32,289: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-22 14:52:32,289: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-22 14:52:32,289: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-22 14:52:32,289: INFO: common: created directory at: artifacts]
+[2024-10-22 14:52:32,289: INFO: common: created directory at: artifacts\training]
+[2024-10-22 14:53:28,474: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-22 14:53:34,490: INFO: stage_04_model_evaluation: *******************]
+[2024-10-22 14:53:34,490: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-22 14:53:34,490: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-22 14:53:34,490: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-22 14:53:34,490: INFO: common: created directory at: artifacts]
+[2024-10-22 14:53:44,566: INFO: common: json file saved at: scores.json]
+[2024-10-22 14:53:44,566: INFO: common: json file saved at: scores.json]
+[2024-10-22 14:53:44,566: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-23 09:35:43,190: INFO: stage_03_model_trainer: *******************]
+[2024-10-23 09:35:43,190: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-23 09:35:43,190: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-23 09:35:43,190: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-23 09:35:43,190: INFO: common: created directory at: artifacts]
+[2024-10-23 09:35:43,201: INFO: common: created directory at: artifacts\training]
+[2024-10-23 09:47:17,396: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-23 09:47:33,251: INFO: stage_04_model_evaluation: *******************]
+[2024-10-23 09:47:33,251: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-23 09:47:33,272: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-23 09:47:33,279: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-23 09:47:33,283: INFO: common: created directory at: artifacts]
+[2024-10-23 09:47:43,873: INFO: common: json file saved at: scores.json]
+[2024-10-23 09:47:43,873: INFO: common: json file saved at: scores.json]
+[2024-10-23 09:47:43,873: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-10-23 09:50:58,084: INFO: stage_03_model_trainer: *******************]
+[2024-10-23 09:50:58,084: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2024-10-23 09:50:58,084: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-23 09:50:58,084: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-23 09:50:58,095: INFO: common: created directory at: artifacts]
+[2024-10-23 09:50:58,097: INFO: common: created directory at: artifacts\training]
+[2024-10-23 10:16:13,754: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-10-23 10:16:24,040: INFO: stage_04_model_evaluation: *******************]
+[2024-10-23 10:16:24,040: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-10-23 10:16:24,040: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2024-10-23 10:16:24,040: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2024-10-23 10:16:24,054: INFO: common: created directory at: artifacts]
+[2024-10-23 10:16:34,367: INFO: common: json file saved at: scores.json]
+[2024-10-23 10:16:34,367: INFO: common: json file saved at: scores.json]
+[2024-10-23 10:16:34,367: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2025-01-03 11:51:49,724: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-01-03 11:51:49,724: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-03 11:51:49,739: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-03 11:51:49,739: INFO: common: created directory at: artifacts]
+[2025-01-03 11:51:49,739: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-03 11:51:49,739: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1rf6azR-SiwxFGdee5N3SIuMB-Rz3kCph/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-01-03 11:52:04,580: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1rf6azR-SiwxFGdee5N3SIuMB-Rz3kCph/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-01-03 11:52:06,178: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-01-03 11:52:49,963: INFO: stage_02_prepare_base_model: *******************]
+[2025-01-03 11:52:49,963: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2025-01-03 11:52:49,963: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-03 11:52:49,963: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-03 11:52:49,963: INFO: common: created directory at: artifacts]
+[2025-01-03 11:52:49,963: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-01-03 11:52:51,598: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-01-03 11:52:54,048: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2025-01-03 11:53:01,484: INFO: stage_03_model_trainer: *******************]
+[2025-01-03 11:53:01,484: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2025-01-03 11:53:01,484: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-03 11:53:01,484: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-03 11:53:01,498: INFO: common: created directory at: artifacts]
+[2025-01-03 11:53:01,498: INFO: common: created directory at: artifacts\training]
+[2025-01-03 21:36:37,676: INFO: stage_03_model_trainer: *******************]
+[2025-01-03 21:36:37,676: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2025-01-03 21:36:37,676: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-03 21:36:37,676: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-03 21:36:37,688: INFO: common: created directory at: artifacts]
+[2025-01-03 21:36:37,688: INFO: common: created directory at: artifacts\training]
+[2025-01-03 21:54:53,604: INFO: stage_03_model_trainer: *******************]
+[2025-01-03 21:54:53,604: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2025-01-03 21:54:53,619: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-03 21:54:53,619: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-03 21:54:53,625: INFO: common: created directory at: artifacts]
+[2025-01-03 21:54:53,626: INFO: common: created directory at: artifacts\training]
+[2025-01-04 00:09:13,635: INFO: stage_03_model_trainer: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2025-01-04 00:09:34,783: INFO: stage_04_model_evaluation: *******************]
+[2025-01-04 00:09:34,784: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2025-01-04 00:09:34,793: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-04 00:09:34,797: INFO: common: yaml file: D:\Major\Chest-Cancer-Detection-using-MLOps-main\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-04 00:09:34,800: INFO: common: created directory at: artifacts]
+[2025-01-04 00:10:32,399: INFO: common: json file saved at: scores.json]
+[2025-01-04 00:10:32,400: INFO: common: json file saved at: scores.json]
+[2025-01-04 00:10:32,400: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2025-01-26 21:12:11,566: INFO: utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2025-01-26 21:12:11,566: INFO: utils: NumExpr defaulting to 8 threads.]
+[2025-01-26 21:12:12,484: INFO: stage_03_model_trainer: *******************]
+[2025-01-26 21:12:12,485: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2025-01-26 21:12:12,528: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-26 21:12:12,553: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-26 21:12:12,565: INFO: common: created directory at: artifacts]
+[2025-01-26 21:12:12,570: INFO: common: created directory at: artifacts\training]
+[2025-01-26 21:22:18,823: INFO: utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2025-01-26 21:22:18,823: INFO: utils: NumExpr defaulting to 8 threads.]
+[2025-01-26 21:22:23,490: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation started <<<<<<]
+[2025-01-26 21:22:23,490: INFO: stage_04_model_evaluation: Loading evaluation configuration...]
+[2025-01-26 21:22:23,493: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-26 21:22:23,498: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-26 21:22:23,500: INFO: common: created directory at: artifacts]
+[2025-01-26 21:22:24,513: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2025-01-26 21:22:24,521: INFO: helpers: Accessing as Annmary777]
+[2025-01-26 21:22:25,185: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/Annmary777/Chest-Cancer-Detection-using-MLOps1 "HTTP/1.1 200 OK"]
+[2025-01-26 21:22:25,822: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2025-01-26 21:22:25,825: INFO: helpers: Initialized MLflow to track repo "Annmary777/Chest-Cancer-Detection-using-MLOps1"]
+[2025-01-26 21:22:25,826: INFO: helpers: Repository Annmary777/Chest-Cancer-Detection-using-MLOps1 initialized!]
+[2025-01-26 21:22:25,826: INFO: stage_04_model_evaluation: Starting MLflow run...]
+[2025-01-26 21:22:26,794: INFO: stage_04_model_evaluation: Logging evaluation parameters...]
+[2025-01-26 21:22:27,785: INFO: stage_04_model_evaluation: Running evaluation...]
+[2025-01-26 21:23:12,075: INFO: common: json file saved at: scores.json]
+[2025-01-26 21:23:12,075: INFO: stage_04_model_evaluation: Evaluation results: None]
+[2025-01-26 21:23:12,076: INFO: stage_04_model_evaluation: Logging metrics from evaluation results...]
+[2025-01-26 21:23:12,076: INFO: stage_04_model_evaluation: Logging metrics from scores.json...]
+[2025-01-26 21:23:12,582: INFO: stage_04_model_evaluation: Logged metric from scores.json: loss = 40.55026626586914]
+[2025-01-26 21:23:13,034: INFO: stage_04_model_evaluation: Logged metric from scores.json: accuracy = 0.6567342281341553]
+[2025-01-26 21:23:13,035: INFO: stage_04_model_evaluation: Logging metrics from incorrect_predictions.json...]
+[2025-01-26 21:23:13,036: WARNING: stage_04_model_evaluation: incorrect_predictions.json not found. Skipping logging from incorrect_predictions.json.]
+[2025-01-26 21:23:13,520: INFO: stage_04_model_evaluation: Evaluation run completed and logged successfully.]
+[2025-01-26 21:23:13,521: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation completed <<<<<<
+
+x==========x]
+[2025-01-26 21:27:55,694: INFO: utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2025-01-26 21:27:55,694: INFO: utils: NumExpr defaulting to 8 threads.]
+[2025-01-26 21:27:59,222: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation started <<<<<<]
+[2025-01-26 21:27:59,223: INFO: stage_04_model_evaluation: Loading evaluation configuration...]
+[2025-01-26 21:27:59,225: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-26 21:27:59,227: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-26 21:27:59,228: INFO: common: created directory at: artifacts]
+[2025-01-26 21:28:00,191: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2025-01-26 21:28:00,195: INFO: helpers: Accessing as Annmary777]
+[2025-01-26 21:28:00,838: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/Annmary777/Chest-Cancer-Detection-using-MLOps1 "HTTP/1.1 200 OK"]
+[2025-01-26 21:28:01,535: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2025-01-26 21:28:01,539: INFO: helpers: Initialized MLflow to track repo "Annmary777/Chest-Cancer-Detection-using-MLOps1"]
+[2025-01-26 21:28:01,540: INFO: helpers: Repository Annmary777/Chest-Cancer-Detection-using-MLOps1 initialized!]
+[2025-01-26 21:28:01,541: INFO: stage_04_model_evaluation: Starting MLflow run...]
+[2025-01-26 21:28:02,388: INFO: stage_04_model_evaluation: Logging evaluation parameters...]
+[2025-01-26 21:28:03,171: INFO: stage_04_model_evaluation: Running evaluation...]
+[2025-01-26 21:28:44,762: INFO: common: json file saved at: scores.json]
+[2025-01-26 21:28:44,763: INFO: stage_04_model_evaluation: Evaluation results: None]
+[2025-01-26 21:28:44,763: INFO: stage_04_model_evaluation: Logging metrics from evaluation results...]
+[2025-01-26 21:28:44,764: INFO: stage_04_model_evaluation: Logging metrics from scores.json...]
+[2025-01-26 21:28:46,212: INFO: stage_04_model_evaluation: Logged metric from scores.json: loss = 40.55026626586914]
+[2025-01-26 21:28:47,329: INFO: stage_04_model_evaluation: Logged metric from scores.json: accuracy = 0.6567342281341553]
+[2025-01-26 21:28:47,330: INFO: stage_04_model_evaluation: Logging metrics from incorrect_predictions.json...]
+[2025-01-26 21:28:47,331: WARNING: stage_04_model_evaluation: incorrect_predictions.json not found. Skipping logging from incorrect_predictions.json.]
+[2025-01-26 21:28:47,715: INFO: stage_04_model_evaluation: Evaluation run completed and logged successfully.]
+[2025-01-26 21:28:47,715: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation completed <<<<<<
+
+x==========x]
+[2025-01-26 21:38:26,778: INFO: utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2025-01-26 21:38:26,781: INFO: utils: NumExpr defaulting to 8 threads.]
+[2025-01-26 21:38:27,874: INFO: stage_03_model_trainer: *******************]
+[2025-01-26 21:38:27,874: INFO: stage_03_model_trainer: >>>>>> stage Training started <<<<<<]
+[2025-01-26 21:38:27,876: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-26 21:38:27,878: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-26 21:38:27,879: INFO: common: created directory at: artifacts]
+[2025-01-26 21:38:27,880: INFO: common: created directory at: artifacts\training]
+[2025-01-26 21:39:09,607: INFO: utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2025-01-26 21:39:09,609: INFO: utils: NumExpr defaulting to 8 threads.]
+[2025-01-26 21:39:12,049: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation started <<<<<<]
+[2025-01-26 21:39:12,050: INFO: stage_04_model_evaluation: Loading evaluation configuration...]
+[2025-01-26 21:39:12,052: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-26 21:39:12,054: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-26 21:39:12,055: INFO: common: created directory at: artifacts]
+[2025-01-26 21:39:14,020: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2025-01-26 21:39:14,028: INFO: helpers: Accessing as Annmary777]
+[2025-01-26 21:39:15,415: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/Annmary777/Chest-Cancer-Detection-using-MLOps1 "HTTP/1.1 200 OK"]
+[2025-01-26 21:39:20,633: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2025-01-26 21:39:20,636: INFO: helpers: Initialized MLflow to track repo "Annmary777/Chest-Cancer-Detection-using-MLOps1"]
+[2025-01-26 21:39:20,637: INFO: helpers: Repository Annmary777/Chest-Cancer-Detection-using-MLOps1 initialized!]
+[2025-01-26 21:39:20,638: INFO: stage_04_model_evaluation: Starting MLflow run...]
+[2025-01-26 21:39:30,596: INFO: stage_04_model_evaluation: Logging evaluation parameters...]
+[2025-01-26 21:39:40,108: INFO: stage_04_model_evaluation: Running evaluation...]
+[2025-01-26 21:40:29,072: INFO: common: json file saved at: scores.json]
+[2025-01-26 21:40:29,072: INFO: stage_04_model_evaluation: Evaluation results: None]
+[2025-01-26 21:40:29,073: INFO: stage_04_model_evaluation: Logging metrics from evaluation results...]
+[2025-01-26 21:40:29,073: INFO: stage_04_model_evaluation: Logging metrics from scores.json...]
+[2025-01-26 21:40:29,536: INFO: stage_04_model_evaluation: Logged metric from scores.json: loss = 40.55026626586914]
+[2025-01-26 21:40:29,956: INFO: stage_04_model_evaluation: Logged metric from scores.json: accuracy = 0.6567342281341553]
+[2025-01-26 21:40:29,957: INFO: stage_04_model_evaluation: Logging metrics from incorrect_predictions.json...]
+[2025-01-26 21:40:30,465: INFO: stage_04_model_evaluation: Logged number of incorrect predictions: 8]
+[2025-01-26 21:40:34,061: INFO: stage_04_model_evaluation: Incorrect predictions exceed 5. Initiating retraining process...]
+[2025-01-26 21:40:36,567: INFO: stage_04_model_evaluation: Retraining stage triggered successfully.]
+[2025-01-26 21:40:37,020: INFO: stage_04_model_evaluation: Evaluation run completed and logged successfully.]
+[2025-01-26 21:40:37,020: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation completed <<<<<<
+
+x==========x]
+[2025-01-26 21:57:38,731: INFO: utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2025-01-26 21:57:38,732: INFO: utils: NumExpr defaulting to 8 threads.]
+[2025-01-26 21:57:42,610: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation started <<<<<<]
+[2025-01-26 21:57:42,610: INFO: stage_04_model_evaluation: Loading evaluation configuration...]
+[2025-01-26 21:57:42,613: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\config\config.yaml loaded successfully]
+[2025-01-26 21:57:42,616: INFO: common: yaml file: C:\Users\Ann Mary\Desktop\chestmlops\Chest-Cancer-Detection-using-MLOps1\src\ChestCancerClassifier\params.yaml loaded successfully]
+[2025-01-26 21:57:42,617: INFO: common: created directory at: artifacts]
+[2025-01-26 21:57:43,626: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2025-01-26 21:57:43,636: INFO: helpers: Accessing as Annmary777]
+[2025-01-26 21:57:44,598: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/repos/Annmary777/Chest-Cancer-Detection-using-MLOps1 "HTTP/1.1 200 OK"]
+[2025-01-26 21:57:45,304: INFO: _client: HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2025-01-26 21:57:45,307: INFO: helpers: Initialized MLflow to track repo "Annmary777/Chest-Cancer-Detection-using-MLOps1"]
+[2025-01-26 21:57:45,309: INFO: helpers: Repository Annmary777/Chest-Cancer-Detection-using-MLOps1 initialized!]
+[2025-01-26 21:57:45,309: INFO: stage_04_model_evaluation: Starting MLflow run...]
+[2025-01-26 21:57:46,523: INFO: stage_04_model_evaluation: Logging evaluation parameters...]
+[2025-01-26 21:57:47,364: INFO: stage_04_model_evaluation: Running evaluation...]
+[2025-01-26 21:58:32,515: INFO: common: json file saved at: scores.json]
+[2025-01-26 21:58:32,517: INFO: stage_04_model_evaluation: Evaluation results: None]
+[2025-01-26 21:58:32,517: INFO: stage_04_model_evaluation: Logging metrics from evaluation results...]
+[2025-01-26 21:58:32,518: WARNING: stage_04_model_evaluation: No evaluation metrics to log.]
+[2025-01-26 21:58:32,518: INFO: stage_04_model_evaluation: Logging metrics from scores.json...]
+[2025-01-26 21:58:33,084: INFO: stage_04_model_evaluation: Logged metric from scores.json: loss = 40.55026626586914]
+[2025-01-26 21:58:33,464: INFO: stage_04_model_evaluation: Logged metric from scores.json: accuracy = 0.6567342281341553]
+[2025-01-26 21:58:33,464: INFO: stage_04_model_evaluation: Logging metrics from incorrect_predictions.json...]
+[2025-01-26 21:58:33,922: INFO: stage_04_model_evaluation: Logged number of incorrect predictions: 8]
+[2025-01-26 21:58:37,315: INFO: stage_04_model_evaluation: Incorrect predictions exceed 5. Initiating retraining process...]
+[2025-01-26 21:58:37,322: INFO: stage_04_model_evaluation: Updated retrain_trigger.txt to trigger retraining.]
+[2025-01-26 21:58:39,221: ERROR: stage_04_model_evaluation: Failed to trigger retraining: ERROR: 'dvc.yaml' does not exist]
+[2025-01-26 21:58:39,662: ERROR: stage_04_model_evaluation: Command '['dvc', 'repro', 'training']' returned non-zero exit status 255.]
+Traceback (most recent call last):
+  File "d:/Users/Ann Mary/Downloads/Chest-Cancer noble/Chest-Cancer-Detection-using-MLOps-main/src/ChestCancerClassifier/pipeline/stage_04_model_evaluation.py", line 156, in <module>
+    obj.main()
+  File "d:/Users/Ann Mary/Downloads/Chest-Cancer noble/Chest-Cancer-Detection-using-MLOps-main/src/ChestCancerClassifier/pipeline/stage_04_model_evaluation.py", line 144, in main
+    raise e
+  File "d:/Users/Ann Mary/Downloads/Chest-Cancer noble/Chest-Cancer-Detection-using-MLOps-main/src/ChestCancerClassifier/pipeline/stage_04_model_evaluation.py", line 125, in main
+    result = subprocess.run(
+  File "C:\Users\Ann Mary\miniconda3\envs\mxry\lib\subprocess.py", line 516, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['dvc', 'repro', 'training']' returned non-zero exit status 255.
